@@ -5,7 +5,7 @@ performance across segments, categories, products, regions, and time.
 
 ![Dashboard](image)
 
-📄 [View Dashboard PDF](report/Sales_Dashboard.pdf)
+📄 [View Dashboard PDF](report)
 
 ## Objective
 Track overall sales performance, identify top-selling products and
