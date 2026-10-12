@@ -3,7 +3,7 @@
 Interactive Power BI dashboard analyzing sales, profit, and order
 performance across segments, categories, products, regions, and time.
 
-![Dashboard](images)
+![Dashboard](image)
 
 📄 [View Dashboard PDF](report/Sales_Dashboard.pdf)
 
